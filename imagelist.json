@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "imageList": 
+  [
+    {
+      "name": "Alley.jpg",
+      "thumb": "thumb_Alley.png"
+    },
+    {
+      "name": "Beach.jpg",
+      "thumb": "thumb_Beach.png"
+    },
+    {
+      "name": "MilkWay.jpg",
+      "thumb": "thumb_MilkWay.png"
+    }
+  ]
+}
